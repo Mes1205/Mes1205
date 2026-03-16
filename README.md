@@ -1,7 +1,8 @@
 # Hi there, I'm Martha Meslina 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX)
-
+<p align="center">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX)
+</p>
 ---
 
 ## 🌐 Connect With Me
@@ -40,13 +41,13 @@
 
 ## 📊 GitHub Stats
 
-![Mesli's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![Mesli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mes1205&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes1205&layout=compact&theme=tokyonight)
 
 ---
 
