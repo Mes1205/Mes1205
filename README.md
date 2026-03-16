@@ -1,8 +1,8 @@
-# Hi there, I'm Martha Meslina 👋🏻
+# Hi there! I'm Martha Meslina 👋🏻
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development" />
 </p>
 
 ---
