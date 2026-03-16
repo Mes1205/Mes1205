@@ -1,11 +1,21 @@
-# Hi there, I'm Martha Meslina 👋
+# Hi there, I'm Martha Meslina 👋🏻
+
 
 <p align="center">
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX)
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX" />
 </p>
+
 ---
 
-## 🌐 Connect With Me
+## 🙋🏻‍♀️ About Me 🙋🏻‍♀️
+
+🎓 Informatics Undergraduate at **Padjadjaran University**  
+🏃🏻‍♀️ Currently exploring **Artificial Intelligence and Machine Learning**  
+💻 Interested in **Software Engineering and UI/UX Design**  
+
+---
+
+## 🤝🏻 Connect With Me 🤝🏻
 
 <a href="www.linkedin.com/in/martha-meslina" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
@@ -13,42 +23,52 @@
 
 ---
 
-## 🚀 About Me
-
-🎓 Informatics Undergraduate at **Padjadjaran University**  
-💻 Interested in **Artificial Intelligence, Data, and Software Development**  
-🎨 Currently exploring **UI/UX Design**  
-🧠 Passionate about **Algorithms and Optimization**
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
-### Web & Backend
-![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools & Design
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"><br>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"><br>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"><br>C++ |
 
 ---
 
-## 📊 GitHub Stats
+### Frontend
 
-![Mesli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mes1205&show_icons=true&theme=tokyonight)
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"><br>React | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"><br>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"><br>CSS3 |
 
 ---
 
-## 💻 Most Used Languages
+### Frameworks
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mes1205&layout=compact&theme=tokyonight)
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"><br>Next.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"><br>Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"><br>Laravel |
 
+---
+
+### Database
+
+| | | |
+|---|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"><br>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"><br>PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40"><br>Supabase |
+
+---
+
+### Design & Tools
+
+| | | 
+|---|---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"><br>Figma | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"><br>GitHub |
+---
+
+## Most Used Languages 👩🏻‍🔧
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mes1205&layout=compact&theme=dracula&hide_border=true&border_radius=12"/>
+</p>
 ---
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
