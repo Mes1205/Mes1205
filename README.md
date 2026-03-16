@@ -1,13 +1,13 @@
 # Hi there, I'm Martha Meslina 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=700&lines=Hi+I'm+Martha+Meslina;Informatics+Student+at+Padjadjaran+University;Interested+in+AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX+Design)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Martha+Meslina;Informatics+Student+%40+Padjadjaran+University;AI+%7C+Data+%7C+Software+Development;Exploring+UI%2FUX)
 
 ---
 
 ## 🌐 Connect With Me
 
 <a href="www.linkedin.com/in/martha-meslina" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Martha%20Meslina-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40"/>
 </a>
 
 ---
@@ -49,6 +49,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight)
 
 ---
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ⭐ From [Mes1205](https://github.com/Mes1205)
 <!--
